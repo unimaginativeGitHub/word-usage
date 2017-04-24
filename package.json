@@ -1,0 +1,14 @@
+{
+  "name": "word-usage",
+  "version": "1.0.0",
+  "description": "Tool to catalogue the words used in a file and compare them to lists of commonly and less commonly used words",
+  "dependencies": {
+    "underscore": "latest"
+  },
+  "main": "parseFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bradley Cooper",
+  "license": "MIT"
+}
