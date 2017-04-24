@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Tool to catalogue the words used in a file and compare them to lists of commonly and less commonly used words",
   "dependencies": {
-    "underscore": "latest"
+    "underscore": "1.8.3",
+    "minimist": "1.2.0"
   },
   "main": "parseFile.js",
   "scripts": {
